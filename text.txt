@@ -1,0 +1,895 @@
+.shopify-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .shopify-state-pressed {
+    gap: 8px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 2px 2px 2px 8px;
+    align-items: center;
+    border-radius: 8px;
+    background-color: var(--dl-color-grey-grey50);
+  }
+  .shopify-text {
+    color: var(--dl-color-font-light);
+    height: auto;
+    text-align: left;
+    line-height: 129.99999523162842%;
+  }
+  .shopify-frame5 {
+    width: 28px;
+    height: 28px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background-color: rgba(54, 251, 161, 1);
+  }
+  .shopify-text02 {
+    top: 9px;
+    left: 5px;
+    color: rgba(0, 0, 0, 0.4000000059604645);
+    height: auto;
+    position: absolute;
+    text-align: center;
+    line-height: 129.99999523162842%;
+  }
+  .shopify-desktop-setupguide2 {
+    width: 100%;
+    height: 900px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: var(--dl-color-default-background);
+  }
+  .shopify-frame1000003548 {
+    gap: 16px;
+    top: 88px;
+    left: 320px;
+    width: 800px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .shopify-selectaplan {
+    gap: 31px;
+    width: 800px;
+    display: flex;
+    padding: 12px 8px 12px 16px;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 8px;
+    justify-content: space-between;
+    background-color: var(--dl-color-grey-grey300);
+  }
+  .shopify-text04 {
+    color: var(--dl-color-font-light);
+    height: auto;
+    text-align: left;
+    line-height: 139.9999976158142%;
+  }
+  .shopify-frame1000003537 {
+    gap: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .shopify-button2 {
+    gap: 8px;
+    display: flex;
+    padding: 6px 12px;
+    overflow: hidden;
+    align-items: center;
+    border-color: rgba(0, 0, 0, 0.10000000149011612);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    background-color: var(--dl-color-default-white);
+  }
+  .shopify-text06 {
+    color: var(--dl-color-font-dark);
+    height: auto;
+    text-align: left;
+    line-height: 129.99999523162842%;
+  }
+  .shopify-component18 {
+    gap: 8px;
+    display: flex;
+    padding: 6px;
+    align-items: flex-start;
+    border-radius: 6px;
+  }
+  .shopify-icons {
+    width: 20px;
+    height: 20px;
+  }
+  .shopify-setupguideclose {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .shopify-setupguideopen {
+    gap: 16px;
+    width: 800px;
+    display: flex;
+    padding: 8px;
+    box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+    align-items: flex-end;
+    flex-shrink: 0;
+    border-color: rgba(219, 219, 219, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 18px;
+    flex-direction: column;
+    background-color: var(--dl-color-default-white);
+  }
+  .shopify-frame1000003545 {
+    gap: 307px;
+    display: flex;
+    padding: 8px;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    justify-content: space-between;
+  }
+  .shopify-frame1000003544 {
+    gap: 16px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .shopify-frame1000003541 {
+    gap: 4px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .shopify-text08 {
+    color: var(--dl-color-font-dark);
+    height: auto;
+    text-align: left;
+    line-height: 139.9999976158142%;
+  }
+  .shopify-text10 {
+    color: var(--dl-color-font-dark);
+    height: auto;
+    text-align: left;
+    line-height: 139.9999976158142%;
+  }
+  .shopify-frame1000003543 {
+    gap: 8px;
+    display: flex;
+    align-items: center;
+  }
+  .shopify-text12 {
+    color: var(--dl-color-font-dark);
+    height: auto;
+    text-align: left;
+    line-height: 129.99999523162842%;
+  }
+  .shopify-frame1000003542 {
+    width: 72px;
+    height: 4px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 28px;
+    background-color: rgba(227, 227, 227, 1);
+  }
+  .shopify-rectangle3 {
+    top: 0px;
+    left: 0px;
+    width: 18px;
+    height: 4px;
+    position: absolute;
+  }
+  .shopify-chevron {
+    gap: 8px;
+    display: flex;
+    padding: 4px;
+    align-items: flex-start;
+    border-radius: 6px;
+  }
+  .shopify-icons1 {
+    width: 20px;
+    height: 20px;
+  }
+  .shopify-frame1000003547 {
+    gap: 2px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-end;
+    flex-direction: column;
+  }
+  .shopify-detail {
+    gap: 96px;
+    display: flex;
+    padding: 8px 8px 12px;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background-color: rgba(243, 243, 243, 1);
+  }
+  .shopify-frame1000003539 {
+    gap: 8px;
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-start;
+  }
+  .shopify-frame1000003540 {
+    gap: 8px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+  }
+  .shopify-component14 {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .shopify-ellipse1 {
+    top: 2px;
+    left: 2px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    border-color: rgba(138, 138, 138, 1);
+    border-style: solid;
+    border-width: 2.0833332538604736px;
+  }
+  .shopify-frame1000003538 {
+    gap: 16px;
+    width: 483.85540771484375px;
+    display: flex;
+    padding: 2px 0;
+    flex-grow: 1;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  .shopify-text14 {
+    color: var(--dl-color-font-dark);
+    height: auto;
+    text-align: left;
+    line-height: 139.9999976158142%;
+  }
+  .shopify-text16 {
+    color: rgba(97, 97, 97, 1);
+    height: auto;
+    font-size: 13px;
+    align-self: stretch;
+    font-style: Medium;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 139.9999976158142%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .shopify-text17 {
+    color: rgba(97, 97, 97, 1);
+  }
+  .shopify-frame1000003549 {
+    gap: 16px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .shopify-button1 {
+    gap: 8px;
+    display: flex;
+    padding: 6px 12px;
+    overflow: hidden;
+    box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 1) ;
+    align-items: center;
+    border-color: rgba(255, 255, 255, 0.20000000298023224);
+    border-style: solid;
+    border-width: 1.5px 1.5px 0;
+    border-radius: 6px;
+    background-color: rgba(64, 64, 64, 1);
+  }
+  .shopify-text19 {
+    color: var(--dl-color-font-light);
+    height: auto;
+    text-align: left;
+    line-height: 129.99999523162842%;
+  }
+  .shopify-illustrations {
+    width: 156.1445770263672px;
+    height: 120px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .shopify-rectangle1 {
+    top: 0px;
+    left: 0px;
+    width: 156px;
+    height: 120px;
+    position: absolute;
+  }
+  .shopify-customizeyouronlinestoreimg {
+    top: 0px;
+    left: 0px;
+    width: 156px;
+    height: 120px;
+    position: absolute;
+  }
+  .shopify-component20 {
+    gap: 120px;
+    display: flex;
+    padding: 8px;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 10px;
+  }
+  .shopify-frame10000035391 {
+    gap: 8px;
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-start;
+  }
+  .shopify-frame10000035401 {
+    gap: 8px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+  }
+  .shopify-component141 {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .shopify-ellipse11 {
+    top: 2px;
+    left: 2px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    border-color: rgba(138, 138, 138, 1);
+    border-style: solid;
+    border-width: 2.0833332538604736px;
+  }
+  .shopify-frame10000035381 {
+    gap: 16px;
+    width: 736px;
+    display: flex;
+    padding: 2px 0;
+    flex-grow: 1;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  .shopify-text21 {
+    color: var(--dl-color-font-dark);
+    height: auto;
+    text-align: left;
+    line-height: 139.9999976158142%;
+  }
+  .shopify-component21 {
+    gap: 120px;
+    display: flex;
+    padding: 8px;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 10px;
+  }
+  .shopify-frame10000035392 {
+    gap: 8px;
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-start;
+  }
+  .shopify-frame10000035402 {
+    gap: 8px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+  }
+  .shopify-component142 {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .shopify-ellipse12 {
+    top: 2px;
+    left: 2px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    border-color: rgba(138, 138, 138, 1);
+    border-style: solid;
+    border-width: 2.0833332538604736px;
+  }
+  .shopify-frame10000035382 {
+    gap: 16px;
+    width: 736px;
+    display: flex;
+    padding: 2px 0;
+    flex-grow: 1;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  .shopify-text23 {
+    color: var(--dl-color-font-dark);
+    height: auto;
+    text-align: left;
+    line-height: 139.9999976158142%;
+  }
+  .shopify-component22 {
+    gap: 120px;
+    display: flex;
+    padding: 8px;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 10px;
+  }
+  .shopify-frame10000035393 {
+    gap: 8px;
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-start;
+  }
+  .shopify-frame10000035403 {
+    gap: 8px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+  }
+  .shopify-component143 {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .shopify-ellipse13 {
+    top: 2px;
+    left: 2px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    border-color: rgba(138, 138, 138, 1);
+    border-style: solid;
+    border-width: 2.0833332538604736px;
+  }
+  .shopify-frame10000035383 {
+    gap: 16px;
+    width: 736px;
+    display: flex;
+    padding: 2px 0;
+    flex-grow: 1;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  .shopify-text25 {
+    color: var(--dl-color-font-dark);
+    height: auto;
+    text-align: left;
+    line-height: 139.9999976158142%;
+  }
+  .shopify-component23 {
+    gap: 120px;
+    display: flex;
+    padding: 8px;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 10px;
+  }
+  .shopify-frame10000035394 {
+    gap: 8px;
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-start;
+  }
+  .shopify-frame10000035404 {
+    gap: 8px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+  }
+  .shopify-component144 {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .shopify-ellipse14 {
+    top: 2px;
+    left: 2px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    border-color: rgba(138, 138, 138, 1);
+    border-style: solid;
+    border-width: 2.0833332538604736px;
+  }
+  .shopify-frame10000035384 {
+    gap: 16px;
+    width: 736px;
+    display: flex;
+    padding: 2px 0;
+    flex-grow: 1;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  .shopify-text27 {
+    color: var(--dl-color-font-dark);
+    height: auto;
+    text-align: left;
+    line-height: 139.9999976158142%;
+  }
+  .shopify-top-navigationbar {
+    gap: 311px;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    display: flex;
+    padding: 12px 16px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: space-between;
+    background-color: var(--dl-color-grey-grey300);
+  }
+  .shopify-shopifycomsvg {
+    width: 464px;
+    height: 30px;
+    flex-grow: 1;
+  }
+  .shopify-searchbar {
+    gap: 6px;
+    width: 480px;
+    height: 32px;
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(97, 97, 97, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    background-color: rgba(48, 48, 48, 1);
+  }
+  .shopify-search-minor {
+    width: 20px;
+    height: 20px;
+  }
+  .shopify-text29 {
+    color: rgba(181, 181, 181, 1);
+    height: auto;
+    text-align: left;
+    line-height: 139.9999976158142%;
+  }
+  .shopify-frame51 {
+    gap: 8px;
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+  .shopify-tag {
+    gap: 8px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 8px;
+    justify-content: center;
+    background-color: var(--dl-color-grey-grey200);
+  }
+  .shopify-icons2 {
+    width: 20px;
+    height: 20px;
+  }
+  .shopify-component10 {
+    gap: 8px;
+    display: flex;
+    padding: 2px 2px 2px 8px;
+    align-items: center;
+    border-radius: 8px;
+    background-color: var(--dl-color-grey-grey200);
+  }
+  .shopify-text31 {
+    color: var(--dl-color-font-light);
+    height: auto;
+    text-align: left;
+    line-height: 129.99999523162842%;
+  }
+  .shopify-frame52 {
+    width: 28px;
+    height: 28px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background-color: rgba(54, 251, 161, 1);
+  }
+  .shopify-text33 {
+    top: 9px;
+    left: 5px;
+    color: rgba(0, 0, 0, 0.4000000059604645);
+    height: auto;
+    position: absolute;
+    text-align: center;
+    line-height: 129.99999523162842%;
+  }
+
+
+
+
+
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopify</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div>
+        <div class="shopify-container">
+          <div class="shopify-state-pressed">
+            <span class="shopify-text Text-12medium">
+              <span>Davii Collections</span>
+            </span>
+            <div class="shopify-frame5">
+              <span class="shopify-text02 Text-12medium"><span>DC</span></span>
+            </div>
+          </div>
+          <div class="shopify-desktop-setupguide2">
+            <div class="shopify-frame1000003548">
+              <div class="shopify-selectaplan">
+                <span class="shopify-text04 Text-13medium">
+                  <span>
+                    Extend your trial for $1/month for 3 months on select plans.
+                  </span>
+                </span>
+                <div class="shopify-frame1000003537">
+                  <button class="shopify-button2">
+                    <span class="shopify-text06 Text-12Semibold">
+                      <span>Select a plan</span>
+                    </span>
+                  </button>
+                  <div class="shopify-component18">
+                    <img
+                      src="/iconsi265-1amr.svg"
+                      alt="IconsI265"
+                      class="shopify-icons"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div class="shopify-setupguideclose">
+                <div class="shopify-setupguideopen">
+                  <div class="shopify-frame1000003545">
+                    <div class="shopify-frame1000003544">
+                      <div class="shopify-frame1000003541">
+                        <span class="shopify-text08 Text-14semibold">
+                          <span>Setup guide</span>
+                        </span>
+                        <span class="shopify-text10 Text-13regular">
+                          <span>
+                            Use this personalized guide to get your store up and
+                            running.
+                          </span>
+                        </span>
+                      </div>
+                      <div class="shopify-frame1000003543">
+                        <span class="shopify-text12 Text-12regular">
+                          <span>1 / 5 completed</span>
+                        </span>
+                        <div class="shopify-frame1000003542">
+                          <img
+                            src="."
+                            alt="Rectangle3I265"
+                            class="shopify-rectangle3"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                    <div class="shopify-chevron">
+                      <img
+                        src="/iconsi265-wuj6.svg"
+                        alt="IconsI265"
+                        class="shopify-icons1"
+                      />
+                    </div>
+                  </div>
+                  <div class="shopify-frame1000003547">
+                    <div class="shopify-detail">
+                      <div class="shopify-frame1000003539">
+                        <div class="shopify-frame1000003540">
+                          <div class="shopify-component14">
+                            <img
+                              src="."
+                              alt="Ellipse1I265"
+                              class="shopify-ellipse1"
+                            />
+                          </div>
+                        </div>
+                        <div class="shopify-frame1000003538">
+                          <span class="shopify-text14 Text-13semibold">
+                            <span>Customize your online store</span>
+                          </span>
+                          <span class="shopify-text16">
+                            <span class="shopify-text17">
+                              Choose a theme and add your logo, colors, and images to
+                              reflect your brand.
+                            </span>
+                            <span>Learn more</span>
+                          </span>
+                          <div class="shopify-frame1000003549">
+                            <button class="shopify-button1">
+                              <span class="shopify-text19 Text-12Semibold">
+                                <span>Customize theme</span>
+                              </span>
+                            </button>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="shopify-illustrations">
+                        <img
+                          src="."
+                          alt="Rectangle1I265"
+                          class="shopify-rectangle1"
+                        />
+                        <img
+                          src="."
+                          alt="CustomizeyouronlinestoreimgI265"
+                          class="shopify-customizeyouronlinestoreimg"
+                        />
+                      </div>
+                    </div>
+                    <div class="shopify-component20">
+                      <div class="shopify-frame10000035391">
+                        <div class="shopify-frame10000035401">
+                          <div class="shopify-component141">
+                            <img
+                              src="."
+                              alt="Ellipse1I265"
+                              class="shopify-ellipse11"
+                            />
+                          </div>
+                        </div>
+                        <div class="shopify-frame10000035381">
+                          <span class="shopify-text21 Text-13medium">
+                            <span>Add your first product</span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="shopify-component21">
+                      <div class="shopify-frame10000035392">
+                        <div class="shopify-frame10000035402">
+                          <div class="shopify-component142">
+                            <img
+                              src="."
+                              alt="Ellipse1I265"
+                              class="shopify-ellipse12"
+                            />
+                          </div>
+                        </div>
+                        <div class="shopify-frame10000035382">
+                          <span class="shopify-text23 Text-13medium">
+                            <span>Add a custom domain</span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="shopify-component22">
+                      <div class="shopify-frame10000035393">
+                        <div class="shopify-frame10000035403">
+                          <div class="shopify-component143">
+                            <img
+                              src="."
+                              alt="Ellipse1I265"
+                              class="shopify-ellipse13"
+                            />
+                          </div>
+                        </div>
+                        <div class="shopify-frame10000035383">
+                          <span class="shopify-text25 Text-13medium">
+                            <span>Name your store</span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="shopify-component23">
+                      <div class="shopify-frame10000035394">
+                        <div class="shopify-frame10000035404">
+                          <div class="shopify-component144">
+                            <img
+                              src="."
+                              alt="Ellipse1I265"
+                              class="shopify-ellipse14"
+                            />
+                          </div>
+                        </div>
+                        <div class="shopify-frame10000035384">
+                          <span class="shopify-text27 Text-13medium">
+                            <span>Set up a payment provider</span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="shopify-top-navigationbar">
+              <img
+                src="/shopifycomsvg4212-rlhl.svg"
+                alt="Shopifycomsvg4212"
+                class="shopify-shopifycomsvg"
+              />
+              <div class="shopify-searchbar">
+                <img
+                  src="/searchminori421-ytgj.svg"
+                  alt="SearchMinorI421"
+                  class="shopify-search-minor"
+                />
+                <span class="shopify-text29 Text-13medium"><span>Search</span></span>
+              </div>
+              <div class="shopify-frame51">
+                <div class="shopify-tag">
+                  <img
+                    src="/iconsi421-og35.svg"
+                    alt="IconsI421"
+                    class="shopify-icons2"
+                  />
+                </div>
+                <div class="shopify-component10">
+                  <span class="shopify-text31 Text-12medium">
+                    <span>Davii Collections</span>
+                  </span>
+                  <div class="shopify-frame52">
+                    <span class="shopify-text33 Text-12medium"><span>DC</span></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+</body>
+</html>
